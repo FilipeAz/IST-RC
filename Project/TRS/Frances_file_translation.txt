@@ -1,0 +1,5 @@
+gare.jpg estacao.jpg
+lumieres.jpg luzes.jpg
+musee.jpg museu.jpg
+peinture.jpg pintura.jpg
+rue.jpg rua.jpg

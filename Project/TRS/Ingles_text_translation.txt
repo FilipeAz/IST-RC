@@ -1,0 +1,27 @@
+﻿cat gato
+
+dog cão
+
+banana banana
+
+pear pêra
+
+pen caneta
+
+apple maçã
+
+pineapple ananás
+
+water água
+table mesa
+mouse rato
+light luz
+paper papel
+pillow almofada
+head cabeça
+knee joelho
+arrow seta
+adventure aventura
+television televisão
+wall parede
+window janela

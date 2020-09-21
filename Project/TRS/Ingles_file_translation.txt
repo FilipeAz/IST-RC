@@ -1,0 +1,5 @@
+station.jpg estacao.jpg
+lights.jpg luzes.jpg
+museum.jpg museu.jpg
+painting.jpg pintura.jpg
+street.jpg rua.jpg

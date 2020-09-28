@@ -8,4 +8,4 @@
 
 [RC](https://fenix.tecnico.ulisboa.pt/disciplinas/RC45179/2016-2017/1-semestre)
 
-Projects Grade - 14/20
+Project Grade - 14/20
